@@ -13,8 +13,7 @@ _Software necesario para implementar el proyecto_
 
 ## Dataset
 
-El dataset lo pueden descargar en el siguiente enlace: [Chest X-Ray Images](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
-,luego de descargarlo debe colocarse en la carpeta data manteniendo las 3 carpetas: train, val, test.
+El dataset lo pueden descargar en el siguiente enlace: [Chest X-Ray Images](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), luego de descargarlo debe colocarse en la carpeta data manteniendo las 3 carpetas: train, val, test.
 
 ## Licencia 📄
 
